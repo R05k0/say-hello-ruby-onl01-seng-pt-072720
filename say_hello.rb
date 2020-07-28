@@ -3,4 +3,3 @@ def say_hello (name, phrase= "Ruby Programming")
   puts "Hello #{name}, #{phrase}!"
 end
 
-say_hello ("Gabriela ")
